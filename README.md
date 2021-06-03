@@ -1,5 +1,5 @@
-![Header](https://i.imgur.com/XslLghl.png)
-
+![Finished](https://i.imgur.com/hzCFhps.png)
+![ML Competition](https://i.imgur.com/0PM7y3u.png)
 
 
 # Santander Customer Transactions
@@ -21,5 +21,5 @@ The data set used comes from a past Kaggle competition that had as its goal to t
 
 # Data origin
 
-[_Santander Bank Customer Transaction Prediction (Competition Data) on Kaggle](https://www.kaggle.com/c/santander-customer-transaction-prediction/overview)
+[Santander Bank Customer Transaction Prediction (Competition Data) on Kaggle](https://www.kaggle.com/c/santander-customer-transaction-prediction/overview)
 
