@@ -179,3 +179,5 @@ We ending this section with a following data frame, in total we created 400 new 
 (200000, 604)
 ```
 
+
+Having all that information, let's proceed to [making predictions based on it.](https://github.com/haixei/stantander-competition/blob/master/docs/predictions.md)
